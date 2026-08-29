@@ -1,0 +1,18 @@
+[
+  {
+    "id": "event-model",
+    "name": "Event Model",
+    "description": "",
+    "fields": [
+      {
+        "name": "title",
+        "key": "title",
+        "label": "Title",
+        "type": "text",
+        "required": true
+      }
+    ],
+    "createdAt": "2026-08-29T11:20:31.501Z",
+    "updatedAt": "2026-08-29T11:20:31.501Z"
+  }
+]
