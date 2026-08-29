@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rec_fep04ak_mtepiyr1",
+    "createdAt": "2026-08-29T18:21:39.565Z",
+    "updatedAt": "2026-08-29T18:28:48.030Z",
+    "eventTitle": "Google IO 2026 Event ",
+    "eventDescription": "this is a test event generated for the Event Management done at astra blogs",
+    "eventImages": [
+      "https://io.google/2026/assets/images/io26-og-image.jpg",
+      "https://io.google/2026/assets/images/io26-google-keynote-thumbnail.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4jhW-KkZDkgkb5rz_8E9QnLldfOAvCryk7_FduRZRg&s=10"
+    ],
+    "eventDate": "16th May 2026",
+    "eventTime": "12:00 PM IST",
+    "eventVenue": "Silicon Valley, California, United States (US)",
+    "hostedBy": "SOC Banglore",
+    "registrationLink": "https://forms.gle/f6TDk7HeHnDnPyf37"
+  }
+]
