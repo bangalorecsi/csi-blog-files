@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Architecting Resilient Event-Driven Workflows: A Modern Guide",
+    "slug": "architecting-resilient-event-driven-workflows-a-modern-guide",
+    "date": "2026-08-29T11:01:46.519Z",
+    "updatedAt": "2026-08-29T11:01:46.519Z",
+    "description": "Modern distributed systems live and die by how reliably they decouple components while maintaining low latency. Moving away from monolithic polling mechanisms t",
+    "tags": [
+      "event",
+      "consumer",
+      "synchronous",
+      "queues",
+      "pipelines",
+      "building",
+      "systems",
+      "pattern"
+    ],
+    "cover": "https://raw.githubusercontent.com/bangalorecsi/csi-blog-files/main/assets/images/1788001083091-images-(1).jpg",
+    "canonical": "https://csibangalore.vercel.app/blog/architecting-resilient-event-driven-workflows-a-modern-guide",
+    "seoTitle": "Architecting Resilient Event-Driven Workflows: A Modern Guide",
+    "seoDescription": "Modern distributed systems live and die by how reliably they decouple components while maintaining low latency. Moving away from monolithic polling mechanisms t",
+    "seoKeywords": [
+      "event",
+      "consumer",
+      "synchronous",
+      "queues",
+      "pipelines",
+      "building",
+      "systems",
+      "pattern",
+      "transactional",
+      "observability"
+    ],
+    "status": "published"
+  }
+]
