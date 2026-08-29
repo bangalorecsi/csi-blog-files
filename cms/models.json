@@ -5,14 +5,63 @@
     "description": "",
     "fields": [
       {
-        "name": "title",
-        "key": "title",
-        "label": "Title",
+        "name": "eventTitle",
+        "key": "eventTitle",
+        "label": "Event Title",
         "type": "text",
         "required": true
+      },
+      {
+        "name": "eventDescription",
+        "key": "eventDescription",
+        "label": "Event Description",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "eventImages",
+        "key": "eventImages",
+        "label": "Event Images",
+        "type": "list",
+        "required": true
+      },
+      {
+        "name": "eventDate",
+        "key": "eventDate",
+        "label": "Event Date",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "eventTime",
+        "key": "eventTime",
+        "label": "Event Time",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "eventVenue",
+        "key": "eventVenue",
+        "label": "Event Venue",
+        "type": "textarea",
+        "required": true
+      },
+      {
+        "name": "hostedBy",
+        "key": "hostedBy",
+        "label": "Hosted By",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "registrationLink",
+        "key": "registrationLink",
+        "label": "Registration Link",
+        "type": "url",
+        "required": false
       }
     ],
     "createdAt": "2026-08-29T11:20:31.501Z",
-    "updatedAt": "2026-08-29T11:20:31.501Z"
+    "updatedAt": "2026-08-29T18:21:03.432Z"
   }
 ]
