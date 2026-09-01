@@ -100,5 +100,39 @@
       "intelligence"
     ],
     "status": "published"
+  },
+  {
+    "title": "Bridging the Skill Gap: How CSI Bangalore Empowers the Next Generation of Developers",
+    "slug": "bridging-the-skill-gap-how-csi-bangalore-empowers-the-next-generation-of-developers",
+    "date": "2026-09-01T02:42:20.622Z",
+    "updatedAt": "2026-09-01T02:42:20.622Z",
+    "description": "The gap between academic education and industry requirements has been a longstanding challenge in the technology sector. While students graduate with theoretica",
+    "tags": [
+      "bangalore",
+      "industry",
+      "skills",
+      "programs",
+      "opportunities",
+      "training",
+      "skill",
+      "generation"
+    ],
+    "cover": "https://raw.githubusercontent.com/bangalorecsi/csi-blog-files/main/assets/images/1788230511348-ChatGPT-Image-Sep-1,-2026,-08_10_10-AM.webp",
+    "canonical": "https://csibangalore.org/blog/bridging-the-skill-gap-how-csi-bangalore-empowers-the-next-generation-of-developers",
+    "seoTitle": "Bridging the Skill Gap: How CSI Bangalore Empowers the Next Generation of Developers",
+    "seoDescription": "The gap between academic education and industry requirements has been a longstanding challenge in the technology sector. While students graduate with theoretica",
+    "seoKeywords": [
+      "bangalore",
+      "industry",
+      "skills",
+      "programs",
+      "opportunities",
+      "training",
+      "skill",
+      "generation",
+      "developers",
+      "innovation"
+    ],
+    "status": "published"
   }
 ]
